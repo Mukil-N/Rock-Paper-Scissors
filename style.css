@@ -1,0 +1,39 @@
+body {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+#choices {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 150px;
+}
+button {
+    height: 100px;
+    width: 100px; 
+    flex-wrap: wrap; 
+    padding: 0;
+    border: 0cap;
+    background-color: wheat;
+    
+}
+button img {
+    
+    height: 100px;
+    width: 100px;
+    
+}
+#paper {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#result {
+    margin-left: 800px;
+    margin-top: 50px;
+
+}
